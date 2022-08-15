@@ -1,5 +1,5 @@
 # ArchLinux-i3-Polybar
-This is my i3+polybar configuration on Arch Linux (with gome as DE). The folders/files in this repo should be put in your *$HOME/.config/* folder.  
+This is my i3+polybar configuration on Arch Linux, with Gnome as DE. The folders/files in this repo (except for the *screenshots* folder) should be put in your `$HOME/.config/`.  
 The dependencies are:
 - i3
 - i3lock
